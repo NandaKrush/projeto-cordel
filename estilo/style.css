@@ -51,9 +51,10 @@ section {
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
-    padding-left: 30px;
+    padding-left: 0px;
     font-family: var(--fonte3);
     font-size: 3.5vw;
+    text-align: center;
 }
 
 section > p {
